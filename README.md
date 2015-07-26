@@ -10,3 +10,20 @@
 ###WeChat SDK Problems
 1. [SDK Problem1](http://www.jianshu.com/p/3f87f024b573)
 2. [SDK Problem2](http://stackoverflow.com/questions/15659631/ignoring-file-path-missing-required-architecture-i386-in-file)
+
+
+## QQ SDK
+1. [QQ SDK Dowloads](http://wiki.open.qq.com/wiki/mobile/SDK%E4%B8%8B%E8%BD%BD)
+2. [QQ Connect](http://connect.qq.com/)
+
+
+## Sina SDK
+1. [Sina SDK Downloads](http://open.weibo.com/wiki/%E7%A7%BB%E5%8A%A8%E5%AE%A2%E6%88%B7%E7%AB%AF%E6%8E%A5%E5%85%A5)
+2. [Sina github Source](https://github.com/sinaweibosdk/weibo_ios_sdk)
+
+
+## RenRen SDK
+1. [RenRen SDK](http://wiki.dev.renren.com/wiki/SDK#iOS_SDK)
+
+## Tutorial
+1. [Tutorial](http://www.tuicool.com/articles/yaMJzm)
