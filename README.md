@@ -9,3 +9,4 @@
 
 ###WeChat SDK Problems
 1. [SDK Problem1](http://www.jianshu.com/p/3f87f024b573)
+2. [SDK Problem2](http://stackoverflow.com/questions/15659631/ignoring-file-path-missing-required-architecture-i386-in-file)
